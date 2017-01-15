@@ -1,0 +1,5 @@
+source /etc/profile.d/jre.sh
+#plugins=(git systemd thefuck catimg git-extras z zsh-syntax-highlighting archlinux common-aliases)
+plugins=(git git-extras systemd thefuck catimg zsh-syntax-highlighting common-aliases gitignore colored-man-pages)
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
